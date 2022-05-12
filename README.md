@@ -1,7 +1,7 @@
-Hi 👋 My name is Ravi Teja
-==========================
+<h2 align="center">Hi 👋 My name is Ravi Teja</h2>
+<!-- ========================== -->
 
-<h2>Web Pentest | Cloud Architect | DevOps | Network Security PENTESTER.CAMP</h2>
+<h2 align="center">Web Pentest | Cloud Architect | DevOps | Network Security<br/>PENTESTER.CAMP</h2>
 ------------------------------------------------------------------------
 
 * 🌍  I'm based in Hyderabad, India
