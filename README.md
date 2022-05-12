@@ -10,7 +10,7 @@
 * 🧠  I'm learning Cyber Security
 
 ### Socials
-[![Twitter](https://img.shields.io/badge/Twitter-%40_iraviteja-%231DA1F2)](https://twitter.com/_iraviteja) 
+[![Twitter](https://img.shields.io/badge/Twitter-_iraviteja-%231DA1F2)](https://twitter.com/_iraviteja) 
 [![Instagram](https://img.shields.io/badge/Instagram-_iraviteja-%23bc2a8d%09)](https://instagram.com/_iraviteja)
 [![Linkedin](https://img.shields.io/badge/Linked%20in-iraviteja-blue)](https://www.linkedin.com/in/iraviteja)
 [![Email](https://img.shields.io/badge/Email-iraviteja77@gmail.com-red)](mailto:iraviteja77@gmail.com)
