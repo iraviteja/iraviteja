@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 My name is Ravi Teja</h2>
+<h1 align="center">Ravi Teja Kunchala 👋</h1>
 <!-- ========================== -->
 
 <h2 align="center">Web Pentest | Cloud Architect | DevOps | Network Security<br/>PENTESTER.CAMP</h2>
@@ -10,10 +10,11 @@
 * 🚀  I'm currently working on [iCamp](http://i.camp)
 * 🧠  I'm learning Cyber Security
 
-<a href="https://www.twitter.com/_iraviteja" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/_iraviteja?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/iraviteja" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/iraviteja?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Socials
+[![Twitter](https://img.shields.io/badge/Twitter-%40_iraviteja-%231DA1F2)](https://twitter.com/_iraviteja) 
+[![Instagram](https://img.shields.io/badge/Instagram-_iraviteja-%23bc2a8d%09)](https://instagram.com/_iraviteja)
+[![Linkedin](https://img.shields.io/badge/Linked%20in-iraviteja-blue)](https://www.linkedin.com/in/iraviteja)
+[![Email](https://img.shields.io/badge/Email-iraviteja77@gmail.com-red)](mailto:iraviteja77@gmail.com)
 
 ### Skills
 
@@ -31,10 +32,6 @@ src="https://img.shields.io/github/followers/iraviteja?logo=github&style=for-the
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/iraviteja" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/iraviteja" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_iraviteja" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/iraviteja" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_iraviteja" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
