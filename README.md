@@ -2,7 +2,6 @@
 <!-- ========================== -->
 
 <h2 align="center">Web Pentest | Cloud Architect | DevOps | Network Security<br/>PENTESTER.CAMP</h2>
-------------------------------------------------------------------------
 
 * 🌍  I'm based in Hyderabad, India
 * 🖥️  See my portfolio at [raviteja.is-a.dev](http://raviteja.is-a.dev)
